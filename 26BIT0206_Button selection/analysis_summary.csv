@@ -1,0 +1,4 @@
+dwell_setting_s,total_attempts,successful_selections,abandoned_attempts,success_rate_pct,avg_selection_time_s,std_selection_time_s,min_selection_time_s,max_selection_time_s
+3.0,166,64,102,38.55,3.04,0.077,3.001,3.507
+4.0,54,34,20,62.96,4.076,0.117,4.005,4.453
+5.0,71,37,34,52.11,5.075,0.121,5.001,5.551
