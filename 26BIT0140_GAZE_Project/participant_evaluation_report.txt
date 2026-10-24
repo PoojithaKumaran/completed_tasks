@@ -1,0 +1,47 @@
+GAZE DATASET - PARTICIPANT EVALUATION REPORT
+================================================
+Generated: 2026-10-24 19:11
+
+OVERALL RESULTS
+--------------------
+Participants: 6
+Completed selections: 79
+Recorded successful selections: 79
+Interrupted dwell attempts: 244
+Total logged attempts: 323
+Unsuccessful attempts including interruptions: 244
+Attempt success rate: 24.46%
+Average fixation time among completed selections: 3.019 seconds
+
+RESULTS BY PARTICIPANT
+-------------------------
+          completed_selections  successful  average_fixation_time_seconds  interrupted_dwells  unsuccessful_completed  total_logged_attempts  unsuccessful_attempts  attempt_success_rate_percent
+user_id                                                                                                                                                                                          
+user_001                    21          21                           3.02                  32                       0                     53                     32                         39.62
+user_002                     9           9                           3.02                   0                       0                      9                      0                        100.00
+user_003                     9           9                           3.01                   0                       0                      9                      0                        100.00
+user_004                     9           9                           3.01                   0                       0                      9                      0                        100.00
+user_006                    20          20                           3.02                  77                       0                     97                     77                         20.62
+user_007                    11          11                           3.02                 135                       0                    146                    135                          7.53
+
+INTERPRETATION
+---------------
+Attempt success rate uses completed selections plus each
+valid logged interrupted dwell as the denominator. It is
+still limited to attempts represented in these logs; gaze
+periods that never started or were not logged are absent.
+It does not independently measure gaze-tracking accuracy.
+
+Average fixation time uses completed selections only.
+
+The deliberate user_005 software test was excluded.
+
+OUTPUT FILES
+------------
+user_evaluation_summary.csv
+success_rate_by_user.png
+average_time_by_user.png
+participant_evaluation_report.txt
+gaze_interruption_log.csv (input to interrupted-attempt counts)
+
+END OF REPORT

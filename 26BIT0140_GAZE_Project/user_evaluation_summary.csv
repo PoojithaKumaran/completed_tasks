@@ -1,0 +1,7 @@
+user_id,completed_selections,successful,average_fixation_time_seconds,interrupted_dwells,unsuccessful_completed,total_logged_attempts,unsuccessful_attempts,attempt_success_rate_percent
+user_001,21,21,3.0229999999999997,32,0,53,32,39.62264150943396
+user_002,9,9,3.016888888888889,0,0,9,0,100.0
+user_003,9,9,3.010222222222222,0,0,9,0,100.0
+user_004,9,9,3.0107777777777778,0,0,9,0,100.0
+user_006,20,20,3.0225999999999997,77,0,97,77,20.618556701030926
+user_007,11,11,3.018818181818182,135,0,146,135,7.534246575342466

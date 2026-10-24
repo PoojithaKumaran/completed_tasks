@@ -1,0 +1,4 @@
+method,training_readings,testing_readings,mean_position_error,median_position_error,p90_position_error,within_radius_percent
+random_stratified,70,24,320.24893937435166,356.5946017356064,465.84665463805413,8.333333333333332
+global_chronological,70,24,317.96385927800844,339.89773234675454,476.2268063340522,0.0
+within_target_chronological,67,27,333.42010681762366,332.2094771272517,497.3656511231941,0.0
