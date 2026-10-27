@@ -1,0 +1,10 @@
+# Personal data recorded from users - never commit
+profiles/
+*.csv
+
+# Downloaded automatically on first run
+face_landmarker.task
+
+# Python
+__pycache__/
+*.pyc
